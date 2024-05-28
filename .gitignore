@@ -1,5 +1,6 @@
 # Byte-compiled / optimized / DLL files
-data/
+data/*
+!data/.gitkeep
 
 __pycache__/
 *.py[cod]
