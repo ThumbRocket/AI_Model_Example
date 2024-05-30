@@ -2,6 +2,7 @@
 Data-Preprocessing/*.nbconvert.*
 data/*
 !data/.gitkeep
+*.pth
 
 __pycache__/
 *.py[cod]
